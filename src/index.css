@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous');
+#root , html ,body{
+  height: 100vh;
+}
+body{
+  margin :0;
+  background-color:#a1cdec;
+}
+*{
+  box-sizing: border-box;
+  font-family: "Righteous" !important;
+}
+html{
+  scroll-behavior: smooth;
+}
